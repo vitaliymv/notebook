@@ -1,0 +1,6 @@
+.venv
+db.sqlite3
+.idea
+core/__pycache__
+core/migrations/__pycache__
+notebook/__pycache__

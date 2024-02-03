@@ -1,0 +1,28 @@
+body {
+    background: lightgrey;
+    font-family: monospace;
+}
+
+h3 {
+    font-size: 23px;
+}
+
+.product {
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.price {
+    color: gray;
+    font-size: 20px;
+}
+
+.desc {
+    font-size: 20px;
+}
+
+.status {
+    font-size: 20px;
+    color: green;
+}
